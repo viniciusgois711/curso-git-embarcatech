@@ -1,0 +1,29 @@
+Comandos Utilizados:
+
+- cd GitEmbarcatech  
+
+- git init --initial-branch=main
+
+- git config user.name "ViniciusGois"
+
+- git config user.email "lu.viniteixeira78@gmail.com"
+
+- git config --list --local
+
+- git status
+
+- git add .
+
+- git commit -m "Adicionando arquivo com nome e matricula"
+
+- git remote add origin https://github.com/viniciusgois711/curso-git-embarcatech.git
+
+- git push -u origin main
+
+- git status
+
+- git add .
+
+- git commit -m "Adicionando arquivo com comandos utilizados"
+
+- git push
